@@ -285,6 +285,14 @@ vendor\.lineage\.touch.*
 com.voltage.*
 vendor.voltage.*
 
+# MTK adds
+com\.mediatek
+com\.mediatek\..*
+mediatek
+mediatek\..*
+vendor\.mediatek
+vendor\.mediatek\..*
+
 # NT adds
 com\.nothing
 com\.nothing\..*
